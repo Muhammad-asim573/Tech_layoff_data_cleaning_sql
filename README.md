@@ -38,7 +38,8 @@ Created a staging table Total_layoff2 to safely delete duplicate records while p
 
 <img width="735" height="392" alt="Before_Cleaning_Industry" src="https://github.com/user-attachments/assets/69bfb989-233c-4b24-b512-67bb482ec99b" />
 
-<img width="765" height="265" alt="After_Cleaning_Industry" src="https://github.com/user-attachments/assets/018b795d-a7a6-4a16-8bde-67fcabf50a93" />
+<img width="722" height="328" alt="After_Cleaning_Industry" src="https://github.com/user-attachments/assets/1d01ba39-0e69-428b-9544-88d5021b36f0" />
+
 
 
 **Country:** Cleaned trailing punctuation (periods) from country names to ensure grouping accuracy (e.g., "United States." → "United States").
